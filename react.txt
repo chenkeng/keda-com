@@ -1,0 +1,8 @@
+componentWillMount()  创建之前
+componentDidMount（） 创建之后
+componentWillUpdate() 更新之前
+componentDidUpdate（）更新之后
+componentWillunmount（）卸载之前
+没有 componentDidunmount
+
+componenWillReceiveProps（）组件参数更新
