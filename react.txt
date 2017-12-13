@@ -1,8 +1,8 @@
-componentWillMount()  创建之前
-componentDidMount（） 创建之后
-componentWillUpdate() 更新之前
-componentDidUpdate（）更新之后
-componentWillunmount（）卸载之前
-没有 componentDidunmount
+componentWillMount()  锞达敬锞斤鲸锟栵井锟囷景
+componentDidMount锞ｏ鲸锞ｏ京 锞达敬锞斤鲸锟栵井锞猴砍
+componentWillUpdate() 锞革考锟愶總锟栵井锟囷景
+componentDidUpdate锞ｏ鲸锞ｏ京锞革考锟愶總锟栵井锞猴砍
+componentWillunmount锞ｏ鲸锞ｏ京锟愶径锟旓繕锟栵井锟囷景
+锟冿净锟擄繍 componentDidunmount
 
-componenWillReceiveProps（）组件参数更新
+componenWillReceiveProps锞ｏ鲸锞ｏ京锟楋咯锞硷烤锞诧繋锟婏拷锞革考锟愶總
